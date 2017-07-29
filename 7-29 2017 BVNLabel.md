@@ -1,5 +1,5 @@
 # BVN Label API Document
-## 新接口 （Swagger：<a href="http://bowkerbvnlabelportal.azurewebsites.net/wmsdemo/Swagger">http://bowkerbvnlabelportal.azurewebsites.net/wmsdemo/Swagger</a>）
+## 新接口 （Swagger：<a href="http://bowkerbvnlabelportal.azurewebsites.net/wmsdemo/Swagger">/wmsdemo/Swagger</a>）
 * /wmsdemo/FontAction/getPrinterList.action
     * 用于获取打印机配置信息
     * 使用 Get 方法获取
