@@ -24,8 +24,14 @@
     * 传参模形如下
         ```JSON
         {
-            "rollId":1,                     // 布卷ID
-            "actionType":"MOVE_IN"          // 操作类型
+            "moveInIdList": [
+                3,
+                4
+            ],
+            "moveOutIdList": [
+                1,
+                2
+            ]
         }
         ```
     * 操作类型有两种
