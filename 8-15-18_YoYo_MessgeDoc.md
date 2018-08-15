@@ -33,7 +33,7 @@
     >
         传输方式：Windows消息
         消息结构：JSON
-        接收者HWND名称：Hermes
+        接收者HWND名称：VoiceInteraction
 
 - **意图表**
     >
