@@ -132,6 +132,6 @@
     ```json
     {
         "intent":"aiui_wakeup",
-        "text":true
+        "status":true
     }
     ```
